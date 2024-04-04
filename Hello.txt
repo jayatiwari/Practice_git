@@ -1,4 +1,1 @@
-"Hello, Git!"
-"This is a new Feature!" 
-"This is new to Feature!" 
-
+"Second trail" 
