@@ -1,1 +1,1 @@
-" Hello Git! I am learning rebase command"
+" Hello Git! I am learning rebase command""i am on the second stage" 
